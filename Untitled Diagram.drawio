@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T07:36:06.441Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="jgxd3NrcOlLpyFXj35Sc" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T07:39:04.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="sGdDIbhGrmCJui0Vf7JU" version="14.2.7" type="github">
   <diagram id="yrol8fg9aSLsKvtu3F4W" name="第 1 页">
     <mxGraphModel dx="2650" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -490,6 +490,9 @@
         </mxCell>
         <mxCell id="mEoU4Fi8q85Gp39FzUji-297" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="260" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEoU4Fi8q85Gp39FzUji-301" value="&lt;h1&gt;Id ？&lt;/h1&gt;&lt;div&gt;目前存疑问的是：guid，nsid，cnmlId这三个字段哪一个是唯一标示同一个稿件的&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="880" width="460" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
